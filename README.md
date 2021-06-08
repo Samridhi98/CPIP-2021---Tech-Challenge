@@ -20,7 +20,7 @@ Hi! We have implemented 2 solutions as part of the tech challenge - CSV Encoding
   3. imdblet_latin - (Latin)
 
   ### Steps to run 
-    1. $git clone "https://github.com/Samridhi98/CPIP-Tech-Challenge.git"
+    1. $git clone "https://github.com/Samridhi98/CPIP-2021---Tech-Challenge.git"
     2. $cd encoding
     2. $python myapp.py
   
@@ -39,10 +39,10 @@ Hi! We have implemented 2 solutions as part of the tech challenge - CSV Encoding
   5. sparse_dot_topn
   (I have used pip freeze to generate requirement.txt file hence may not be useful in some environments)
 
-### Run
-  1. $git clone "https://github.com/Samridhi98/CPIP-Tech-Challenge.git"
-  2. $cd fuzzy
-  3. $python main.py
+### Steps To Run
+    1. $git clone "https://github.com/Samridhi98/CPIP-2021---Tech-Challenge.git"
+    2. $cd fuzzy
+    3. $python main.py
   
 ## Future Implementation
   1. Building a interactive UI for fuzzy search
